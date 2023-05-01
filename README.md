@@ -2,6 +2,8 @@
 Owid data Covid impact on health care infrastructure
 The Impact of COVID-19 on Healthcare Infrastructure: A
 Comparative Analysis of Developed and Developing Countries 
+
+
 PROBLEM DEFINITION 
 The COVID-19 epidemic has had a big impact on healthcare systems around the world. This
 study intends to investigate how the pandemic has impacted healthcare systems in
@@ -15,6 +17,8 @@ healthcare systems?
 developed and poor nations? 
 • How have the healthcare systems in developed and developing nations reacted to the
 pandemic, and how well did they handle the situation? 
+
+
 BACKGROUND 
 The COVID-19 epidemic has put a lot of strain on the world's healthcare systems, resulting in
 overcrowded hospitals, a lack of medical supplies, and serious health concerns for healthcare
